@@ -1,7 +1,7 @@
 ﻿<Window x:Class="Client.Catalyst.UI.OptionsScreen"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="OptionsScreen" Height="300" Width="300">
+        Title="OptionsScreen" Height="300" Width="300" FontSize="10" FontFamily="Segoe UI Light">
     <Grid>
         
     </Grid>
