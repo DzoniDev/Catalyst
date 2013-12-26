@@ -7,7 +7,9 @@ This is a school project that we are doing. For now it's just a concept. Any inp
 
 Follow us on Twitter:
 
-@mirkosec @DzoniDev @Jastuk55
+[@mirkosec] (https://twitter.com/@mirkosec) <br>
+[@DzoniDev] (https://twitter.com/@DzoniDev) <br>
+[@Jastuk55] (https://twitter.com/@Jastuk55) <br>
 
 P.S.
 
